@@ -1,0 +1,13 @@
+{
+  "id" : "https://zihan0315.github.io/Jadeproject9/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in zihan0315/Jadeproject9 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/Jade011Manifest.json",
+    "label" : "Jade011 玉式花盘 (古玉2472)"
+  } ]
+}
