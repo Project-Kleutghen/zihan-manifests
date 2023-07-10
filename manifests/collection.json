@@ -17,5 +17,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade010manifestsearch.json",
     "label" : "NPM 故宮 - 玉花式盤"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade010search.json",
+    "label" : "NPM 故宮 - 玉花式盤"
   } ]
 }
