@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://zihan0315.github.io/Jadeproject9/annotations/jade010.json" ],
+  "otherContent" : [ ],
   "@id" : "https://zihan0315.github.io/Jadeproject9/annotations/collection.json",
   "label" : "All annotations loaded in zihan0315/Jadeproject9 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
