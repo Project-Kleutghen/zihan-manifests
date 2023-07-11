@@ -11,10 +11,6 @@
     "label" : "Jade011 玉式花盘 (古玉2472)"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade010manifestwithanno.json",
-    "label" : "NPM 故宮 - 玉花式盤"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade010manifestsearch.json",
     "label" : "NPM 故宮 - 玉花式盤"
   }, {
