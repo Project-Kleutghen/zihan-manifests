@@ -11,10 +11,6 @@
     "label" : "Jade011 玉式花盘 (古玉2472)"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade116manifest.json",
-    "label" : "Qing(磬)"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade116_manifest_sm_0723.json",
     "label" : "Qing(磬)"
   } ]
