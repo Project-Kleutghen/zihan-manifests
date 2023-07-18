@@ -15,10 +15,6 @@
     "label" : "NPM 故宮 - 玉花式盤"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade010annotationpage.json",
-    "label" : "NPM 故宮 - 玉花式盤"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade116manifest.json",
     "label" : "Qing(磬)"
   }, {
