@@ -19,10 +19,6 @@
     "label" : "NPM 故宮 - 玉花口花蕾形雙柄碗"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/Jade065manifestandannotations.json",
-    "label" : "NPM 故宮 - 玉花口花蕾形雙柄碗"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/Jade065manifestcopy.json",
     "label" : "NPM 故宮 - 玉花口花蕾形雙柄碗"
   } ]
