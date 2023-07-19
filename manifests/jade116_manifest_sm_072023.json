@@ -24,7 +24,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "Metropolitan Museum https://www.metmuseum.org/art/collection/search/670539",
+  "attribution" : "The Metropolitan Museum of Art https://www.metmuseum.org/art/collection/search/670539",
   "sequences" : [ {
     "@id" : "http://d03ea4f3-2e66-46c7-a09d-0a5376642e14",
     "@type" : "sc:Sequence",
