@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade019_npm_manifest.json",
     "label" : "NPM 故宮 - 玉長柄杓"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://zihan0315.github.io/Jadeproject9/manifests/jade035b_manifest_sm_0723.json",
+    "label" : "round white jade dish"
   } ]
 }
